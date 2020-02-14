@@ -4,9 +4,7 @@ Basic HTML Website Vulnerability Analyser in Python:
 
 Checks Forms, Comments and Inputs for basic html vulnerabilities.
 
-Use:
-
-url options
+Use: url options
 
 options:
 -h Help 
@@ -15,9 +13,9 @@ options:
 --config Path to config file
 
 examples:
-./achillies.py http://your-url.com
-./achillies.py http://your-url.com:80 --output report.txt
-./achillies.py http://your-url.com:80 --config config.yml --output report.txt
+http://your-url.com
+http://your-url.com --output report.txt
+http://your-url.com:80 --config config.yml --output report.txt
 
 
 
