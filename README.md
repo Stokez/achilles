@@ -13,8 +13,7 @@ options:
 --config Path to config file
 
 examples:
-http://your-url.com --output report.txt //  
-http://your-url.com:80 --config config.yml --output report.txt
+http://your-url.com --output report.txt // http://your-url.com:80 --config config.yml --output report.txt
 
 
 
