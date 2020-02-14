@@ -1,0 +1,10 @@
+============================================
+   CSUK Achilles > HTML Analyser Report   
+============================================
+
+URL: http://localhost:8000
+Config: config.yml
+
+Check All: False
+
+!! Config - No Checks Performed: {'forms': False, 'comments': False, 'passwords': False}
